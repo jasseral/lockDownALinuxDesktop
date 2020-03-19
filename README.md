@@ -18,4 +18,4 @@ This extension was created for running in Ubuntu 18.04
 3) Press the key "Súper" ![Image description](https://sleewee.com/wp-content/uploads/2019/01/windows-key-standard-location.png)
 
 # Importat notes
-I left the search options available for test properties (for example : open "tweaks" and enable or disable extension) , for production use the functionality "search" will be deactivated
+I left the search options available for test properties (for example : open "tweaks" and enable or disable extension) , for production use the functionality "search" will be desactivated
