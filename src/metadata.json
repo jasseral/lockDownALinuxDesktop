@@ -1,6 +1,6 @@
 {
   "name": "lockDownALinuxDesktop",
-  "description": "This Gnome extension try for a lockDownALinuxDesktop",
+  "description": "This Gnome extension try to do  a lockDownALinuxDesktop",
   "uuid": "lockDownALinuxDesktop@jasseral",
   "shell-version": ["3.28", "3.32", "3.34"]
 }
