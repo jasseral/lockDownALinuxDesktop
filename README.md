@@ -1,6 +1,7 @@
 # lockDownALinuxDesktop
 
-This Gnome extension lock a ubuntu desktop 18.04 , final user only can execute programs  that exits in the
+This Gnome extension lock a ubuntu desktop 18.04 , removes : top menu , status , dock bar , and  search (see : Important notes)
+final user only can execute programs  that exits in the
 desktop (example : you can left , a navigator or network configuration shortcut) ; this was created for second milestone requirement in a upwork contract.
 
 This extension was created for running in Ubuntu 18.04
@@ -18,4 +19,4 @@ This extension was created for running in Ubuntu 18.04
 3) Press the key "Súper" ![Image description](https://sleewee.com/wp-content/uploads/2019/01/windows-key-standard-location.png)
 
 # Important notes
-I left the search options available for test properties (for example : open "tweaks" and enable or disable extension) , for production use the functionality "search" will be desactivated,
+I left the search options available for test  (for example : open "tweaks" and enable or disable extension) , for production use the functionality "search" will be desactivated,
